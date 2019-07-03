@@ -1,3 +1,3 @@
 # Machine Learning Projects
 
-## 1. Antimicrobial Peptide Classifier
+## 1. Antimicrobial Peptide (AMP) Classifier
