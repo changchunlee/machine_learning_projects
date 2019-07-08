@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-# Antimicrobial Peptide (AMP) Classifier
+# - Antimicrobial Peptide (AMP) Classifier
 
 Antimicrobial peptide (AMP) recognition using deep learning
 
@@ -15,12 +15,10 @@ There are two goals we want to achieve using DNN:
 Our first goal is achieved by building a 15 DNN model to reconigze AMP peptides with accuracy >91% on unseen test dataset. The next step of is work is to further classify the pore-forming mechanism (Toroidal vs. Barrel Stave Model) if a given peptide is recoginized as AMP.
 
 <br>
+<br>
+<br>
 
-
-
-
-
-# Dog Breed Classifier
+# - Dog Breed Classifier
 
 ## Introduction to image recognition
 
@@ -48,11 +46,11 @@ Input human image:
 <BR>
 <img src="https://raw.githubusercontent.com/changchunlee/machine_learning_projects/master/Dog_Breed_Classifier/images/example_human_01.png" width="400">
 
+<br>
+<br>
+<br>
 
-
-
-
-# Digit Reconginer
+# - Digit Reconginer
 
 How well can a machine learning algorithm classify hand-written digits?
 
@@ -69,12 +67,10 @@ The CNNs in this kernel follow LeNet5's design with the few improvements:
 In this kernal, we have built a ensemble of CNNs that can achieve more than 99.7% of classification accuracy on the unseen test data. Based on the LeNet-5 architecture, few advanced techniques are used including data augmentation, ReLU activation, ensembling, bagging, decaying learning rates, dropout, batch normalization, and adam optimization.
 
 <br>
+<br>
+<br>
 
-
-
-
-
-# Sentiment Analysis Web Application
+# - Sentiment Analysis Web Application
 
 The goal of this project is to have a simple web page which a user can use to enter a movie review. The web page will then send the review to the deployed model which will predict the sentiment of the entered review. 
 
