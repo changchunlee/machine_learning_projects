@@ -42,4 +42,7 @@ The goal of this project is to have a simple web page which a user can use to en
 IMDB dataset is used to train and validate the XGBoost model. The trained model is then deployed for web application by utilizing AWS Lambda function ana Amazon API Gateway.  
 
 <br>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 09d6e41f8623ef799d8a504948f4bef67700374d
