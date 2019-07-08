@@ -1,6 +1,4 @@
-# Machine Learning Projects
-
-## Antimicrobial Peptide (AMP) Classifier
+# Antimicrobial Peptide (AMP) Classifier
 
 Antimicrobial peptide (AMP) recognition using deep learning
 
